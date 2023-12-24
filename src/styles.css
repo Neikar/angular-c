@@ -1,0 +1,11 @@
+body {
+  background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=46538");
+  padding: 0;
+  margin: 0;
+}
+header {
+  background-color: blueviolet;
+  color:white;
+  font-weight: bold;
+  padding: 15px;
+}
